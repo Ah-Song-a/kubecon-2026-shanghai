@@ -6,6 +6,7 @@
 
 - [9 月 8 日议程](agenda/2026-09-08.md) · [9 月 9 日议程](agenda/2026-09-09.md)
 - [Slides 原文件清单](slides/README.md)
+- 延伸资料：[Cilium: Up and Running](resources/cilium-up-and-running.md)
 - 专题：[NCCL/RDMA](topics/nccl-rdma.md) · [GPU 拓扑](topics/gpu-topology.md) · [LLM 推理](topics/llm-inference.md) · [KV Cache](topics/kv-cache.md) · [GPU 调度](topics/gpu-scheduling.md) · [可观测性](topics/observability.md)
 
 ## 学习主线
@@ -50,6 +51,7 @@ PyTorch / AI 工作负载
 - Session 简介是对官方摘要的合规概括，不是整段复制。
 - 只镜像官方议程明确提供下载的 Slides；视频发布前统一标记为“待补”，后续可关注 [CNCF YouTube](https://www.youtube.com/@cncf)。
 - Slides 版权归相应讲者及权利人所有。文件仅供学习与资料参考；公开 GitHub 仓库前应逐份确认再分发许可。许可不明确时，请删除二进制文件，仅保留官方下载链接。
+- 完整商业书籍不上传到仓库，只记录书目信息、官方入口和推荐阅读路线。
 
 ## 后续维护
 

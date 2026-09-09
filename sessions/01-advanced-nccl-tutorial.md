@@ -6,7 +6,7 @@
 - 讲者：Jeff Hammond、Hanyue He、Ke Wen
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1224567)
 - Slides：[原始 PDF](../slides/advanced-nccl-tutorial.pdf) · [官方下载](https://sessionize.com/download/okugpa~ErvMRkjRjLFiWksGeRKUuR.pdf~pytorch-china-2026-tutorial.pdf)
-- 代码：[教程仓库](https://github.com/jeffhammond/pytorch-china-2026-nccl-tutorial)
+- 官方代码仓库：[jeffhammond/pytorch-china-2026-nccl-tutorial](https://github.com/jeffhammond/pytorch-china-2026-nccl-tutorial)
 - 官方视频：待补
 
 ## 官方简介摘要
@@ -23,4 +23,3 @@
 ## 个人笔记
 
 - 
-

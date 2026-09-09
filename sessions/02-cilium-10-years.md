@@ -6,6 +6,7 @@
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1227863)
 - Slides：官方暂未公开 / 待补
 - 官方视频：待补
+- 延伸阅读：[Cilium: Up and Running](../resources/cilium-up-and-running.md) · [O’Reilly 官方页面](https://www.oreilly.com/library/view/cilium-up-and/9798341622982/)
 
 ## 官方简介摘要
 
@@ -21,4 +22,3 @@
 ## 个人笔记
 
 - 
-

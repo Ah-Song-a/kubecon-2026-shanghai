@@ -44,6 +44,7 @@ PyTorch / AI 工作负载
 | 9 月 8 日 | [Beyond Model Sharding: Atomic Scheduling and Disaggregated LLM Serving with LeaderWorkerSet](sessions/14-leaderworkerset-disaggregated-serving.md) | LWS、Gang Scheduling 与 PD 分离推理原子调度 | [PDF](slides/beyond-model-sharding-leaderworkerset.pdf) |
 | 9 月 9 日 | [Beyond Static Pods: Dynamic GPU Sharing and Low-Latency Model Switching for LLM Inference on K8s](sessions/15-dynamic-gpu-sharing.md) | 动态 GPU 共享与秒级模型切换 | 暂未公开 |
 | 9 月 9 日 | [Non-Invasive AI Agent Observability With OBI](sessions/16-obi-agent-observability.md) | eBPF 无侵入观测 MCP 与 Agent 工具调用 | 暂未公开 |
+| 9 月 8 日 | [Zero-Trust Traffic Governance For Kubernetes AI Agent Sandboxes](sessions/17-zero-trust-agent-sandbox-traffic.md) | Agent Sandbox 出站流量、身份、凭据与审计治理 | [PDF](slides/zero-trust-traffic-governance-for-kubernetes-ai-agent-sandboxes.pdf) |
 
 ## 来源和版权
 

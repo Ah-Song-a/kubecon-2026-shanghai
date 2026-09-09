@@ -10,3 +10,4 @@ TTFT / TPOT / ITL → 判断 Prefill 或 Decode 阶段
 
 建议阅读：[Token-to-GPU 可观测性](../sessions/09-llm-observability-token-to-gpu.md)、[Why Your TTFT Lies](../sessions/11-why-your-ttft-lies.md)、[Cilium](../sessions/02-cilium-10-years.md)。
 
+Agent 场景还需要把可观测性与安全治理结合起来，参见 [OBI 无侵入 Agent 可观测性](../sessions/16-obi-agent-observability.md)和[零信任 Agent Sandbox 流量治理](../sessions/17-zero-trust-agent-sandbox-traffic.md)。

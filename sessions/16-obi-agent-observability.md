@@ -4,7 +4,7 @@
 - 地点 / 语言：1F · Mandarin Hall II / 英文
 - 讲者：Haibin Zhang、Endre Sara
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1219307)
-- Slides：官方暂未公开 / 待补
+- Slides：[原始 PDF](../slides/non-invasive-ai-agent-observability-with-obi.pdf) · [官方下载](https://sessionize.com/download/islawkes~pgcj26mJd8aau8pRoySAGc.pdf~non-invasive-ai-agent-observability-with-obi-kubecon-extended.pdf)
 - 官方视频：待补
 
 ## 官方简介摘要
@@ -21,4 +21,3 @@
 ## 个人笔记
 
 - 
-

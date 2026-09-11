@@ -43,8 +43,10 @@ PyTorch / AI 工作负载
 | 9 月 9 日 | [Volcano: A Unified Scheduling Platform for Cloud Native AI](sessions/13-volcano-unified-scheduling.md) | 统一调度训练、推理和 Agent | 暂未公开 |
 | 9 月 8 日 | [Beyond Model Sharding: Atomic Scheduling and Disaggregated LLM Serving with LeaderWorkerSet](sessions/14-leaderworkerset-disaggregated-serving.md) | LWS、Gang Scheduling 与 PD 分离推理原子调度 | [PDF](slides/beyond-model-sharding-leaderworkerset.pdf) |
 | 9 月 9 日 | [Beyond Static Pods: Dynamic GPU Sharing and Low-Latency Model Switching for LLM Inference on K8s](sessions/15-dynamic-gpu-sharing.md) | 动态 GPU 共享与秒级模型切换 | 暂未公开 |
-| 9 月 9 日 | [Non-Invasive AI Agent Observability With OBI](sessions/16-obi-agent-observability.md) | eBPF 无侵入观测 MCP 与 Agent 工具调用 | 暂未公开 |
+| 9 月 9 日 | [Non-Invasive AI Agent Observability With OBI](sessions/16-obi-agent-observability.md) | eBPF 无侵入观测 MCP 与 Agent 工具调用 | [PDF](slides/non-invasive-ai-agent-observability-with-obi.pdf) |
 | 9 月 8 日 | [Zero-Trust Traffic Governance For Kubernetes AI Agent Sandboxes](sessions/17-zero-trust-agent-sandbox-traffic.md) | Agent Sandbox 出站流量、身份、凭据与审计治理 | [PDF](slides/zero-trust-traffic-governance-for-kubernetes-ai-agent-sandboxes.pdf) |
+| 9 月 9 日 | [What We Learned Securing AI Agents at Scale on Multi-Tenant Kubernetes Clusters](sessions/18-securing-ai-agents-multi-tenant-kubernetes.md) | 多租户 Agent 的微虚机、身份、网络和准入纵深防御 | [PDF](slides/securing-ai-agents-at-scale-multi-tenant-kubernetes.pdf) |
+| 9 月 9 日 | [Pathless First: Redefining runc Container Security Against ProcFS-Based Attacks](sessions/19-pathless-first-runc-security.md) | Agent Sandbox 底层 runc 与 ProcFS 逃逸防护 | [PDF](slides/pathless-first-runc-container-security.pdf) |
 
 ## 来源和版权
 

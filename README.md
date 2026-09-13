@@ -34,7 +34,7 @@ PyTorch / AI 工作负载
 | 9 月 8 日 | [Gravity of Ecosystems: Pollinating the Modern AI Orchestrator](sessions/04-modern-ai-orchestrator.md) | DRA、Workload API、Ray、Slurm 与 PyTorch | 暂未公开 |
 | 9 月 9 日 | [Serving AI at Massive Scale: The Cloud-Native Inference Plane Behind Huawei Celia](sessions/05-huawei-celia-inference-plane.md) | 万卡级 PD 分离推理基础设施 | 暂未公开 |
 | 9 月 9 日 | [Training Through Failures: How Meta Keeps 100k-GPU Jobs Alive with Open-Source Fault Tolerance](sessions/06-meta-100k-gpu-fault-tolerance.md) | NCCL communicator 恢复与 RDMA checkpoint | 暂未公开 |
-| 9 月 9 日 | [Turning Fragmented GPU Clusters Into One Elastic Compute Pool](sessions/07-elastic-gpu-compute-pool.md) | 多集群 DRA/Kueue 与拓扑感知放置 | 暂未公开 |
+| 9 月 9 日 | [Turning Fragmented GPU Clusters Into One Elastic Compute Pool](sessions/07-elastic-gpu-compute-pool.md) | 多集群 DRA/Kueue 与拓扑感知放置 | [PDF](slides/turning-fragmented-gpu-clusters-into-one-elastic-compute-pool.pdf) |
 | 9 月 9 日 | [To Cache or Not to Cache? A Tiered KVCache Storage System for Agent Scenarios](sessions/08-tiered-kvcache.md) | Agent 场景的缓存分层与生命周期管理 | 暂未公开 |
 | 9 月 9 日 | [End-to-End Observability for LLM Inference: From Token to GPU](sessions/09-llm-observability-token-to-gpu.md) | 将 TTFT/TPOT/ITL 一路关联到 GPU | [PDF](slides/end-to-end-observability-for-llm-inference.pdf) |
 | 9 月 9 日 | [vLLM KV Cache Management: From Cache Reuse to Agent Scenario Optimization](sessions/10-vllm-kv-cache.md) | Prefix 复用、Offload、LRU/ARC | 暂未公开 |

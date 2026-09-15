@@ -14,6 +14,8 @@
 | What We Learned Securing AI Agents at Scale on Multi-Tenant Kubernetes Clusters | `securing-ai-agents-at-scale-multi-tenant-kubernetes.pdf` | [官方 PDF](https://sessionize.com/download/ilzawiv~4MTg7dwnN4m6TLkGTZpAu7.pdf~what-we-learned-securing-ai-agents-at-scale-on-multi-tenant-kubernetes-clusters.pdf) | 见 `SHA256SUMS` |
 | Pathless First: Redefining runc Container Security Against ProcFS-Based Attacks | `pathless-first-runc-container-security.pdf` | [官方 PDF](https://sessionize.com/download/powuy~ReFLDezCLCUwpTkPzRqtMo.pdf~kubecon2026-pathless-first.pdf) | 见 `SHA256SUMS` |
 | Turning Fragmented GPU Clusters Into One Elastic Compute Pool | `turning-fragmented-gpu-clusters-into-one-elastic-compute-pool.pdf` | [官方 PDF](https://sessionize.com/download/iplagfel~KNgWE9Ba4DTmsabWTzMdB9.pdf~kubecon-shanghai-2026-slide-0909.pdf) | 见 `SHA256SUMS` |
+| A Cloud Native Stack from Bare Metal to Tokens for Large-Scale AI Inference | `cloud-native-stack-bare-metal-to-tokens.pdf` | [官方 PDF](https://sessionize.com/download/iwvabbeb~JtLQi6m8kTTM9XEAGaKDgz.pdf~viettel-ai-platform-2026.pdf) | 见 `SHA256SUMS` |
+| Escaping the Vendor Trap: A Journey for Migrating Legacy Infrastructure to OpenStack and K8s | `escaping-vendor-trap-openstack-kubernetes.pdf` | [官方 PDF](https://sessionize.com/download/wkalwem~3NEA7pbsSRiZT12thET6M1.pdf~viettel-escaping-vendor-trap-2026.pdf) | 见 `SHA256SUMS` |
 
 其他重点 Session：截至 2026 年 9 月 9 日检查时，官方议程中均为**暂未公开 / 待补**。
 

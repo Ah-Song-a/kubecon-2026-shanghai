@@ -47,6 +47,8 @@ PyTorch / AI 工作负载
 | 9 月 8 日 | [Zero-Trust Traffic Governance For Kubernetes AI Agent Sandboxes](sessions/17-zero-trust-agent-sandbox-traffic.md) | Agent Sandbox 出站流量、身份、凭据与审计治理 | [PDF](slides/zero-trust-traffic-governance-for-kubernetes-ai-agent-sandboxes.pdf) |
 | 9 月 9 日 | [What We Learned Securing AI Agents at Scale on Multi-Tenant Kubernetes Clusters](sessions/18-securing-ai-agents-multi-tenant-kubernetes.md) | 多租户 Agent 的微虚机、身份、网络和准入纵深防御 | [PDF](slides/securing-ai-agents-at-scale-multi-tenant-kubernetes.pdf) |
 | 9 月 9 日 | [Pathless First: Redefining runc Container Security Against ProcFS-Based Attacks](sessions/19-pathless-first-runc-security.md) | Agent Sandbox 底层 runc 与 ProcFS 逃逸防护 | [PDF](slides/pathless-first-runc-container-security.pdf) |
+| 9 月 9 日 | [A Cloud Native Stack from Bare Metal to Tokens for Large-Scale AI Inference](sessions/20-cloud-native-stack-bare-metal-to-tokens.md) | 从多代异构 GPU、裸机和资源池一路构建 Token-as-a-Service | [PDF](slides/cloud-native-stack-bare-metal-to-tokens.pdf) |
+| 9 月 9 日 | [Escaping the Vendor Trap: A Journey for Migrating Legacy Infrastructure to OpenStack and K8s](sessions/21-escaping-vendor-trap-openstack-kubernetes.md) | 从 VMware 迁移至 OpenStack、Ceph 与 Kubernetes 的大规模实践 | [PDF](slides/escaping-vendor-trap-openstack-kubernetes.pdf) |
 
 ## 来源和版权
 

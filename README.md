@@ -49,6 +49,13 @@ PyTorch / AI 工作负载
 | 9 月 9 日 | [Pathless First: Redefining runc Container Security Against ProcFS-Based Attacks](sessions/19-pathless-first-runc-security.md) | Agent Sandbox 底层 runc 与 ProcFS 逃逸防护 | [PDF](slides/pathless-first-runc-container-security.pdf) |
 | 9 月 9 日 | [A Cloud Native Stack from Bare Metal to Tokens for Large-Scale AI Inference](sessions/20-cloud-native-stack-bare-metal-to-tokens.md) | 从多代异构 GPU、裸机和资源池一路构建 Token-as-a-Service | [PDF](slides/cloud-native-stack-bare-metal-to-tokens.pdf) |
 | 9 月 9 日 | [Escaping the Vendor Trap: A Journey for Migrating Legacy Infrastructure to OpenStack and K8s](sessions/21-escaping-vendor-trap-openstack-kubernetes.md) | 从 VMware 迁移至 OpenStack、Ceph 与 Kubernetes 的大规模实践 | [PDF](slides/escaping-vendor-trap-openstack-kubernetes.pdf) |
+| 9 月 8 日 | [From Containers to Agents: The Next Cloud Native](sessions/22-from-containers-to-agents.md) | 把 Agent 建模为具备身份、状态、权限和策略的新型云原生工作负载 | [PDF](slides/from-containers-to-agents.pdf) |
+| 9 月 8 日 | [8 Million Tasks Daily: Driving Efficiency in Multi-Tenant Data Platforms at Horizon Robotics](sessions/23-horizon-8-million-tasks.md) | 每日 800 万任务下的 Argo、Volcano、Kueue 控制面实践 | [PDF](slides/horizon-8-million-tasks.pdf) |
+| 9 月 8 日 | [Declarative Underlays: Scaling Purpose-Built Infrastructure(Clusters) for OpenStack with Cluster API](sessions/24-declarative-underlays-openstack-cluster-api.md) | 用 CAPI 声明式管理 GPU、高速网络和存储专用底层集群 | [PDF](slides/declarative-underlays-openstack-cluster-api.pdf) |
+| 9 月 8 日 | [⚡ Before vLLM starts: Preflight Checks for LWS for LLM Inference on K8S](sessions/25-vllm-preflight-lws.md) | 在推理启动前验证 NCCL、拓扑和连通性，尽早阻断隐性故障 | [PPTX](slides/vllm-preflight-lws.pptx) |
+| 9 月 9 日 | [KV Cache: Accelerating AI inference on Intel CPU](sessions/26-kv-cache-intel-cpu.md) | 用 DDR、存储卸载和 QAT 压缩扩展 KV Cache 层级 | [PDF](slides/kv-cache-intel-cpu.pdf) |
+| 9 月 9 日 | [Secure AI Agent Sandboxing with OpenStack Zun and Kata Container](sessions/27-secure-ai-agent-sandbox-openstack-zun-kata.md) | Zun、Kata、Glance 与 Neutron 组成 Agent 执行安全边界 | [PDF](slides/secure-ai-agent-sandbox-openstack-zun-kata.pdf) |
+| 9 月 9 日 | [vLLM-Helion: SOTA LLM Performance by advanced autotuning and fine-grained dispatching](sessions/28-vllm-helion.md) | Kernel 离线自动调优与运行时细粒度配置分派 | [PDF](slides/vllm-helion.pdf) |
 
 ## 来源和版权
 

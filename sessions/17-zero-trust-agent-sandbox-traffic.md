@@ -6,7 +6,7 @@
 - Track：Networking + Edge + Distributed Systems
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1221856)
 - Slides：[原始 PDF](../slides/zero-trust-traffic-governance-for-kubernetes-ai-agent-sandboxes.pdf) · [官方下载](https://sessionize.com/download/ioyjayxe~SGt9nR1NtS54hTts9Bb8dy.pdf~zero-trust_traffic_governance_for_kubernetes_ai_agent_sandboxes.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=E2GxX4VeWD8)
 
 ## 官方简介摘要
 
@@ -36,4 +36,3 @@ Agent Runtime / Sandbox
 ## 个人笔记
 
 - 
-

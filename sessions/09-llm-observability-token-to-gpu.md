@@ -5,7 +5,7 @@
 - 讲者：Jared Tan、Murphy Chen、Nicole Li
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1223860)
 - Slides：[原始 PDF](../slides/end-to-end-observability-for-llm-inference.pdf) · [官方下载](https://sessionize.com/download/ifiymay~Dur7z1Dbqz7DLEgf5TnNjJ.pdf~end-to-end-observability-for-llm-inference-from-token-to-gpu-en.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=K6doiHgBabk)
 
 ## 官方简介摘要
 
@@ -21,4 +21,3 @@
 ## 个人笔记
 
 - 
-

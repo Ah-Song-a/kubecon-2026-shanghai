@@ -7,7 +7,7 @@
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1220735)
 - Slides：[原始 PPTX](../slides/vllm-preflight-lws.pptx) · [官方下载](https://sessionize.com/download/ipcabzec~pCjHasFF5EvMw5K29jsEgj.pptx~kubecon-2026-peter-preflight-and-lws.pptx)
 - 相关实现：[LWS PR #813](https://github.com/kubernetes-sigs/lws/pull/813)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=qKo0eJCFqtE)
 
 ## 官方简介摘要
 
@@ -23,4 +23,3 @@
 ## 个人笔记
 
 - 
-

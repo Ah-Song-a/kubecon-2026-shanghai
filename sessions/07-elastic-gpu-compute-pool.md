@@ -5,7 +5,7 @@
 - 讲者：ChongKang Tan
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1224524)
 - Slides：[原始 PDF](../slides/turning-fragmented-gpu-clusters-into-one-elastic-compute-pool.pdf) · [官方下载](https://sessionize.com/download/iplagfel~KNgWE9Ba4DTmsabWTzMdB9.pdf~kubecon-shanghai-2026-slide-0909.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=OozAaQTEZ7s)
 
 ## 官方简介摘要
 

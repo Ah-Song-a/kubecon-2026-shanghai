@@ -6,7 +6,7 @@
 - 类型：Keynote Session
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1308448)
 - Slides：[原始 PDF](../slides/cloud-native-stack-bare-metal-to-tokens.pdf) · [官方下载](https://sessionize.com/download/iwvabbeb~JtLQi6m8kTTM9XEAGaKDgz.pdf~viettel-ai-platform-2026.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=5nTqhPoz9Hs)
 
 ## 官方简介摘要
 
@@ -26,4 +26,3 @@
 ## 个人笔记
 
 - 
-

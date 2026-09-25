@@ -6,7 +6,7 @@
 - 类型：Keynote
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1309269)
 - Slides：[原始 PDF](../slides/from-containers-to-agents.pdf) · [官方下载](https://sessionize.com/download/iicosna~HupukHSbEyx51Co8oHcD6Y.pdf~kubeconch26-keynote-from-containers-to-agents-the-next-cloud-native-abstraction.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF 官方大会录像播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 
 ## 官方简介摘要
 

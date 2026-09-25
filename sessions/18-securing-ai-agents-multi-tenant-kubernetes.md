@@ -6,7 +6,7 @@
 - Track：AI + ML + Agentic AI + Data Systems
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1218010)
 - Slides：[原始 PDF](../slides/securing-ai-agents-at-scale-multi-tenant-kubernetes.pdf) · [官方下载](https://sessionize.com/download/ilzawiv~4MTg7dwnN4m6TLkGTZpAu7.pdf~what-we-learned-securing-ai-agents-at-scale-on-multi-tenant-kubernetes-clusters.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=Iio1IklYFi4)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@ Namespace、RBAC 和 NetworkPolicy 原本主要面向相互协作的工作负载
 ## 个人笔记
 
 - 
-

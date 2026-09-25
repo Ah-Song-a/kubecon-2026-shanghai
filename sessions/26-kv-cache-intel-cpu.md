@@ -6,7 +6,7 @@
 - 类型：Sponsor Demo
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1303982)
 - Slides：[原始 PDF](../slides/kv-cache-intel-cpu.pdf) · [官方下载](https://sessionize.com/download/ijzappeg~GghacyHV9Jff6YjjfU19pa.pdf~intel_accelerating_ai_inference_on_intel_cpu.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=jKN5Y-iet74)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@
 ## 个人笔记
 
 - 
-

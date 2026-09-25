@@ -5,7 +5,7 @@
 - 讲者：Kay Yan、Chen Zicong
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1222146)
 - Slides：[原始 PDF](../slides/beyond-model-sharding-leaderworkerset.pdf) · [官方下载](https://sessionize.com/download/vgayseh~7WqizQY5Mfk3vudj2dh8Bh.pdf~beyond-model-sharding-atomic-scheduling-and-disaggregated-llm-serving-with-leaderworkerset.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF 官方大会录像播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 
 ## 官方简介摘要
 

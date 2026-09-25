@@ -5,7 +5,7 @@
 - 讲者：Haibin Zhang、Endre Sara
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1219307)
 - Slides：[原始 PDF](../slides/non-invasive-ai-agent-observability-with-obi.pdf) · [官方下载](https://sessionize.com/download/islawkes~pgcj26mJd8aau8pRoySAGc.pdf~non-invasive-ai-agent-observability-with-obi-kubecon-extended.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=AWPjeQBZ9Eo)
 
 ## 官方简介摘要
 

@@ -5,6 +5,7 @@
 ## 快速入口
 
 - [9 月 8 日议程](agenda/2026-09-08.md) · [9 月 9 日议程](agenda/2026-09-09.md)
+- [CNCF 官方大会录像（100 个视频）](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 - [Slides 原文件清单](slides/README.md)
 - 延伸资料：[Cilium: Up and Running](resources/cilium-up-and-running.md)
 - 专题：[NCCL/RDMA](topics/nccl-rdma.md) · [GPU 拓扑](topics/gpu-topology.md) · [LLM 推理](topics/llm-inference.md) · [KV Cache](topics/kv-cache.md) · [GPU 调度](topics/gpu-scheduling.md) · [可观测性](topics/observability.md)
@@ -61,12 +62,12 @@ PyTorch / AI 工作负载
 
 - 信息来自官方 [9 月 8 日](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?date=tue-sep-8)及[9 月 9 日](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?date=wed-sep-9)议程。
 - Session 简介是对官方摘要的合规概括，不是整段复制。
-- 只镜像官方议程明确提供下载的 Slides；视频发布前统一标记为“待补”，后续可关注 [CNCF YouTube](https://www.youtube.com/@cncf)。
+- 只镜像官方议程明确提供下载的 Slides；大会正式录像已由 CNCF 发布，详见[官方播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)。各 Session 页面优先提供已核验的录像直链，其余场次指向该官方全集。
 - Slides 版权归相应讲者及权利人所有。文件仅供学习与资料参考；公开 GitHub 仓库前应逐份确认再分发许可。许可不明确时，请删除二进制文件，仅保留官方下载链接。
 - 完整商业书籍不上传到仓库，只记录书目信息、官方入口和推荐阅读路线。
 
 ## 后续维护
 
 1. 在各 Session 的“个人笔记”中补充现场收获。
-2. 官方录像发布后更新视频链接。
+2. 继续核验并补充各 Session 的官方录像直链。
 3. 公开前重新检查新增 Slides 和再分发许可。

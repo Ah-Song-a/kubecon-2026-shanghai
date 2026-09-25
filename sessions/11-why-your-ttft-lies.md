@@ -5,7 +5,7 @@
 - 讲者：Nicole Li、Kebe Liu
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1220647)
 - Slides：[原始 PPTX](../slides/why-your-ttft-lies.pptx) · [官方下载](https://sessionize.com/download/idyatweu~QMcLoJtAyViBA2cZx3Mwny.pptx~kubecon-china-2026-why-your-ttft-lies.pptx)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=5rWtmHfYUCA)
 
 ## 官方简介摘要
 
@@ -21,4 +21,3 @@ TTFT 本身无法指出慢在哪个阶段。这场分享把跨层指标真正变
 ## 个人笔记
 
 - 
-

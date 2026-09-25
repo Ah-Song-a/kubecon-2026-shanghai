@@ -6,7 +6,7 @@
 - Track：Cloud Infrastructure + Virtualization + Storage
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1219415)
 - Slides：[原始 PDF](../slides/escaping-vendor-trap-openstack-kubernetes.pdf) · [官方下载](https://sessionize.com/download/wkalwem~3NEA7pbsSRiZT12thET6M1.pdf~viettel-escaping-vendor-trap-2026.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=7V_SDWYBNgw)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@
 ## 个人笔记
 
 - 
-

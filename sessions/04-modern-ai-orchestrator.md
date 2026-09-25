@@ -5,7 +5,7 @@
 - 讲者：Wenjia Zhang、Bo Fu
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1210983)
 - Slides：官方暂未公开 / 待补
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=7udQ6KFs_js)
 
 ## 官方简介摘要
 
@@ -21,4 +21,3 @@
 ## 个人笔记
 
 - 
-

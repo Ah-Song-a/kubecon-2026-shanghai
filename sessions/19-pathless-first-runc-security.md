@@ -8,7 +8,7 @@
 - Slides：[原始 PDF](../slides/pathless-first-runc-container-security.pdf) · [官方下载](https://sessionize.com/download/powuy~ReFLDezCLCUwpTkPzRqtMo.pdf~kubecon2026-pathless-first.pdf)
 - 代码：[opencontainers/runc](https://github.com/opencontainers/runc)
 - 讲者网站：[lifubang.github.io/acm](https://lifubang.github.io/acm/)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=nH2fwO0WyFg)
 
 ## 官方简介摘要
 
@@ -24,4 +24,3 @@
 ## 个人笔记
 
 - 
-

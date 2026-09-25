@@ -5,7 +5,7 @@
 - 讲者：Jingbin Zhang、Wang Cong、Yun Bai
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1223545)
 - Slides：官方暂未公开 / 待补
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=H2ULQz43ln8)
 
 ## 官方简介摘要
 
@@ -21,4 +21,3 @@ Agent 场景使缓存保留成为策略问题，而不仅是传输带宽问题�
 ## 个人笔记
 
 - 
-

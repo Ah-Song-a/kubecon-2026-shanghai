@@ -6,7 +6,7 @@
 - 难度：Intermediate
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1224832)
 - Slides：[原始 PDF](../slides/secure-ai-agent-sandbox-openstack-zun-kata.pdf) · [官方下载](https://sessionize.com/download/idbatkeq~wNbLV3hoKvGDdd9EL11Fiq.pdf~secure-ai-agent-sandbox-upload.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=eYg0Il-6xYY)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@
 ## 个人笔记
 
 - 
-

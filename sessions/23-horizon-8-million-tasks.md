@@ -5,7 +5,7 @@
 - 讲者：JIanxiang Sun、Shuangkun Tian
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1225136)
 - Slides：[原始 PDF](../slides/horizon-8-million-tasks.pdf) · [官方下载](https://sessionize.com/download/ccagmeh~Sho5sytNjC4agwxxVJ33VD.pdf~kubecon_shanghai_2026_horizon_robotics.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF 官方大会录像播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 
 ## 官方简介摘要
 

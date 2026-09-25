@@ -6,7 +6,7 @@
 - 难度：Advanced
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1224992)
 - Slides：[原始 PDF](../slides/declarative-underlays-openstack-cluster-api.pdf) · [官方下载](https://sessionize.com/download/iktariq~RSKSn2UTCwcWzwsfmdNFr2.pdf~declarative_underlays_kubecon_china_2026.pdf)
-- 官方视频：待补
+- 官方视频：[CNCF 官方大会录像播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 
 ## 官方简介摘要
 

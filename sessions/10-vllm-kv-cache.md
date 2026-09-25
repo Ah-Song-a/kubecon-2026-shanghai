@@ -5,7 +5,7 @@
 - 讲者：Mengqing Cao、Xiyuan Wang
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1222763)
 - Slides：官方暂未公开 / 待补
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=sYH-Vf3h7Xc)
 
 ## 官方简介摘要
 
@@ -21,4 +21,3 @@
 ## 个人笔记
 
 - 
-

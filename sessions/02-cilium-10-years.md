@@ -5,7 +5,7 @@
 - 讲者：Liyi Huang、Tingjin Ye、Yashi Su
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1227863)
 - Slides：官方暂未公开 / 待补
-- 官方视频：待补
+- 官方视频：[CNCF 官方大会录像播放列表](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 - 延伸阅读：[Cilium: Up and Running](../resources/cilium-up-and-running.md) · [O’Reilly 官方页面](https://www.oreilly.com/library/view/cilium-up-and/9798341622982/)
 
 ## 官方简介摘要

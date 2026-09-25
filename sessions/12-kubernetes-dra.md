@@ -6,7 +6,7 @@
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1223308)
 - Slides：[原始 PDF](../slides/kubernetes-dra-architecture-v1.1.pdf) · [官方下载](https://sessionize.com/download/kqaxyec~47fBae5CA846z2Fj7Xfbwx.pdf~kubernetes-dra-architecture-v1.1.pdf)
 - 代码：[NVIDIA Kubernetes DRA GPU Driver](https://github.com/NVIDIA/k8s-dra-driver-gpu)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=XEv5c6p0Jx0)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@ AI/HPC 任务需要拓扑匹配的 GPU 和 NIC，而不是只满足设备数量�
 ## 个人笔记
 
 - 
-

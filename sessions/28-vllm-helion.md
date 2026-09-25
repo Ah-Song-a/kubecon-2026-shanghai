@@ -6,7 +6,7 @@
 - [官方 Session 页面](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/schedule/?id=1214156)
 - Slides：[原始 PDF](../slides/vllm-helion.pdf) · [官方下载](https://sessionize.com/download/impaldey~Lu9nPHGesXnMGADsrTkByA.pdf~vllm-helion-pytorch-conference-china-2026.pdf)
 - [GitHub Repository](https://github.com/redhat-et/vllm-helion)
-- 官方视频：待补
+- 官方视频：[CNCF YouTube](https://www.youtube.com/watch?v=5Uhe4aGb5YA)
 
 ## 官方简介摘要
 
@@ -22,4 +22,3 @@
 ## 个人笔记
 
 - 
-
